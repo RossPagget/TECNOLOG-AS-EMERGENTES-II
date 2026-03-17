@@ -1,6 +1,5 @@
 #Ejercicio 3
-#Nombre: Rosmery Aruni Paye
-#CI: 9244293        RU:200075568       
+#Nombre: Rosmery Aruni Paye  RU:200075568       
 #Materia: Tecnologias Emergentes II
 
 curso="Python para iniciantes"
