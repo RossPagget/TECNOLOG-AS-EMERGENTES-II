@@ -1,6 +1,5 @@
 #Ejercicio 8
-#Nombre: Rosmery Aruni Paye
-#CI: 9244293        RU:200075568       
+#Nombre: Rosmery Aruni Paye  RU:200075568       
 #Materia: Tecnologias Emergentes II
 
 #listas
